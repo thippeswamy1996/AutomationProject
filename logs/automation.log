@@ -1,0 +1,65 @@
+2025-02-25 20:56:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-25 20:56:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2025-02-25 20:56:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-25 20:56:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-25 20:56:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-25 20:56:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-25 20:56:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-25 20:56:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-25 20:56:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2025-02-25 20:56:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 11 ms.
+2025-02-25 20:56:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-25 20:56:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-25 20:56:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-25 20:56:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-25 20:56:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-25 20:56:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-25 20:56:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-25 20:56:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-25 20:56:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-25 20:56:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-25 20:56:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-25 20:56:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-25 20:56:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-25 20:56:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-25 20:56:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-25 20:56:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-02-25 20:56:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-25 20:56:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-25 20:56:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-25 20:56:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-25 20:56:21 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Reconnect\AppData\Local\Temp\testng-eclipse-1941451997\testng-customsuite.xml
+
+2025-02-25 20:56:21 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+2025-02-25 20:56:52 INFO  TC001_Verify_Registration_Page:13 - Test case is starting
+2025-02-25 20:56:56 INFO  TC001_Verify_Registration_Page:18 - Clicked on home link
+2025-02-25 20:56:57 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@27b71f50: 107 ms
+2025-02-25 20:56:57 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@383790cf: 1 ms
+2025-02-25 20:56:57 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@677b8e13: 11 ms
+2025-02-25 20:56:57 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@65004ff6: 12 ms
+2025-02-25 20:56:57 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@2032e725: 10 ms
+2025-02-25 20:56:57 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@4d23015c: 0 ms
+2025-02-25 22:19:03 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Reconnect\eclipse-workspace\AutomationProject\testng.xml
+
+2025-02-25 22:19:09 INFO  TC001_Verify_Registration_Page:13 - Test case is starting
+2025-02-25 22:19:11 INFO  TC001_Verify_Registration_Page:18 - Clicked on home link
+2025-02-25 22:23:38 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Reconnect\eclipse-workspace\AutomationProject\crosbrowser.xml
+
+2025-02-25 22:23:43 INFO  TC001_Verify_Registration_Page:13 - Test case is starting
+2025-02-25 22:23:44 INFO  TC001_Verify_Registration_Page:18 - Clicked on home link
+2025-02-25 22:23:54 INFO  TC001_Verify_Registration_Page:13 - Test case is starting
+2025-02-25 22:23:56 INFO  TC001_Verify_Registration_Page:18 - Clicked on home link
+2025-02-25 22:24:01 INFO  TC001_Verify_Registration_Page:13 - Test case is starting
+2025-02-25 22:24:03 INFO  TC001_Verify_Registration_Page:18 - Clicked on home link
+2025-02-25 22:41:03 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Reconnect\eclipse-workspace\AutomationProject\crosbrowser.xml
+
+2025-02-25 22:41:13 INFO  TC001_Verify_Registration_Page:13 - Test case is starting
+2025-02-25 22:41:13 INFO  TC001_Verify_Registration_Page:13 - Test case is starting
+2025-02-25 22:41:14 INFO  TC001_Verify_Registration_Page:13 - Test case is starting
+2025-02-25 22:41:15 INFO  TC001_Verify_Registration_Page:18 - Clicked on home link
+2025-02-25 22:41:16 INFO  TC001_Verify_Registration_Page:18 - Clicked on home link
+2025-02-25 22:41:16 INFO  TC001_Verify_Registration_Page:18 - Clicked on home link
